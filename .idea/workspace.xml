@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7716cca9-ce4c-4e19-ac5a-b6efc332ef6e" name="Default Changelist" comment="Se sube string">
-      <change afterPath="$PROJECT_DIR$/SQL2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBDD.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL.py" beforeDir="false" afterPath="$PROJECT_DIR$/SQL.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SQL2">
+  <component name="RunManager" selected="Python.BBDD">
+    <configuration name="BBDD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pytho3dias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BBDD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="HTTP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pytho3dias" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,27 +124,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Pytho3dias" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="list3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pytho3dias" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BBDD" />
         <item itemvalue="Python.SQL2" />
         <item itemvalue="Python.SQL" />
         <item itemvalue="Python.HTTP" />
         <item itemvalue="Python.list3" />
-        <item itemvalue="Python.list2" />
       </list>
     </recent_temporary>
   </component>

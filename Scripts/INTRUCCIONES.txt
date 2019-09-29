@@ -1,0 +1,25 @@
+Python 3 al completo desde cero
+
+Por Héctor Costa @hcostaguzman
+http://escueladevideojuegos.net
+
+Pack de Ejercicios
+------------------
+Temas 1 al 12 (Versión 1)
+
+26 de Agosto de 2016
+
+
+============================
+INSTRUCCIONES DE INSTALACIÓN
+============================
+
+Este Pack únicamente incluye los ejercicios organizados en sus directorios.
+
+Debes arrastrar y sobreescribir el directorio CursoPython y confirmar.
+
+Así conseguirás una nueva carpeta en cada uno de las unidades llamada "Ejercicios".
+
+-------------------------------------------
+NO SE SOBREESCRIBIRÁ NINGUNO DE TUS APUNTES
+-------------------------------------------
